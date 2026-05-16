@@ -35,8 +35,8 @@ int main(){
 							hitung++;
 						}
 					}
-					printf("\nJumlah dari faktor tersebut adalah: %d\n", hitung);
-					break;
+				printf("\nJumlah dari faktor tersebut adalah: %d\n", hitung);
+				break;
 			
 			case 2:
 				system("cls");
