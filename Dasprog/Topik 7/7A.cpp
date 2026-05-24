@@ -51,6 +51,5 @@ void advance(){
 int main(){
 	//basic();
 	//Standard();
-	advance();
 	
 }
